@@ -21,8 +21,8 @@ Issues can be [submitted](https://github.com/MCGamerNetwork/Issues/issues/new) a
 * Bump issues to receive a response; we look through all issue reports submitted, bumping an issue will not help
 * Argue unproductively in an issue's comments
 * Re-create an issue you feel unjustly closed
-* Add pointless comments such as "first", :+1:, +1 or "I like this idea"
-* Submit issues that are general suggestions, as opposed to *specific, technical* bugs or *confirmed* features
+* Add pointless comments such as "first", :+1:, or +1
+* Submit suggestions; the issue tracker is only for bugs with current features
 * Create disrespectful or inflammatory comments
 
 ## Formatting
@@ -37,22 +37,22 @@ Provide a brief summary of the issue.
 
 > Flint and steel won't work
 
-### Label
-
-Utilize the labels on the right hand side while creating new issues. You can assign a label simply by clicking on it. If your issue is limited to a specific gametype or gametype(s), please use the appropriate pre-created labels. Generally, all bug reports should have the "bug" label at the very least. **If you find a bug related to our preview network, please label it with the "v2" label.**
-
 ### Description
 
 Try to separate your description into three different sections, if possible:
 
-1. **The issue**
+1. **Environment**
+
+    This section should provide all information regarding the environment where the issue occured, including the network (live network or preview network?), location (US/EU/CA/AU), server ID, gametype, time of when the issue happened, etc.
+
+2. **The issue**
 
     This section should provide a detailed explanation of the issue.
 
-2. **Steps to reproduce**
+3. **Steps to reproduce**
 
     If applicable, this section should provide a detailed list of steps needed to reproduce the issue.
 
-3. **Miscellaneous information**
+4. **Miscellaneous information**
 
     Information that doesn't necessarily fit into any other sections, such as screenshots.
