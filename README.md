@@ -39,7 +39,7 @@ Provide a brief summary of the issue.
 
 ### Description
 
-Try to separate your description into three different sections, if possible:
+Try to separate your description into four different sections, if possible:
 
 1. **Environment**
 
