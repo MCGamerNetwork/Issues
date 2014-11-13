@@ -15,6 +15,7 @@ Issues can be [submitted](https://github.com/MCGamerNetwork/Issues/issues/new) a
 * You can use [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) to spice up your issue submission a little bit.
 * Use a *vanilla* environment, making sure to remove any client-side mods
 * Assume that all [rules of the MCGamer forums](http://www.minecraftsurvivalgames.com/threads/mcsg-updated-rules-version-3-0.12254/) apply to the issue tracker
+* Submit *one issue per report*. Putting multiple issues into one report makes it difficult for us to separate and identify the issues within our code. If you submit multiple issues in one bug report, your report will be closed and you will be asked to separate them.
 
 ### Do not:
 
