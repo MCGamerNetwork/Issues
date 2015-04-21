@@ -44,7 +44,7 @@ Try to separate your description into four different sections, if possible:
 
 1. **Environment**
 
-    This section should provide all information regarding the environment where the issue occured, including the network (live network or preview network?), location (US/EU/CA/AU), server ID, gametype, time of when the issue happened, etc.
+    This section should provide all information regarding the environment where the issue occured, location (US/EU/CA/AU), server ID, gametype, time of when the issue happened, etc.
 
 2. **The issue**
 
