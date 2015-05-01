@@ -16,6 +16,7 @@ Issues can be [submitted](https://github.com/MCGamerNetwork/Issues/issues/new) a
 * Use a *vanilla* environment, making sure to remove any client-side mods
 * Assume that all [rules of the MCGamer forums](http://www.minecraftsurvivalgames.com/threads/mcsg-updated-rules-version-3-0.12254/) apply to the issue tracker
 * Submit *one issue per report*. Putting multiple issues into one report makes it difficult for us to separate and identify the issues within our code. If you submit multiple issues in one bug report, your report will be closed and you will be asked to separate them.
+* Use `/reportbug` ingame on the server that you're having issues with to obtain a state dump ID number, and reference the provided number in your issue report. This provides us with helpful information about the internal state of the server, and if done right when the issue happens, can help us fix the issue faster.
 
 ### Do not:
 
